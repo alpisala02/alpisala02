@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Alperen
 
-I'm a game developer based in Istanbul, passionate about creating immersive worlds and engaging gameplay experiences.
+I'm a game developer based in Istanbul. 
+Passionate about creating immersive worlds and engaging gameplay experiences.
 I primarily work with **Unity**, but I also have some experience with **Unreal Engine** and **Godot**.
 
 **Fun Facts**
