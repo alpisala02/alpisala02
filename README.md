@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Alperen
+
+I'm a game developer based in Istanbul, passionate about creating immersive worlds and engaging gameplay experiences.
+I primarily work with **Unity**, but I also have some experience with **Unreal Engine** and **Godot**.
+
+**Fun Facts**
+* I create and play **D&D** content on YouTube
+* I play the **bass guitar**
+
+
 
 <!--
 **alpisala02/alpisala02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
